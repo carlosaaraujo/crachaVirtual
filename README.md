@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Chachá NLW Heat" src="https://github.com/birobirobiro/nlw-heat-origin/raw/main/.github/nlw-heat.png" width="100%">
+  <img alt="Chachá NLW Heat" src="https://imgur.com/lf9yb4G.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021
 
-Preview do projeto: [Link](https://carlosaaraujo.github.io/nlw-heat-origin/)
+Preview do projeto: <a href="https://carlosaaraujo.github.io/nlw-heat-origin/" target="_blank">Acessar</a>
 
 ## 🔖 Layout
 
